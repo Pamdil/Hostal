@@ -5,11 +5,8 @@ This is an Android-based Hostel Management System designed to streamline and mod
 ## Table of Contents
 - [Features](#features)
 - [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributors](#contributors)
-- [License](#license)
+
+  
 
 ## Features
 - **Student Profile Management:** Students can update their personal details and view room assignments.
